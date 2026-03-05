@@ -6,10 +6,10 @@ Mediación de Materiales TyHM 2026
 
 [Emiliano Ochoa](https://github.com/Emiliano-Ochoa/Modulo1.git)
 
-[Tiago Friscolanti]
+[Tiago Friscolanti](https://github.com/tiago-friscolanti/modulo_1.git)
 
-[Gerardo Fernandez]
+[Gerardo Fernandez](https://github.com/gerardofernandez12/modulo-1.git)
 
-[Facundo Romero]
+[Facundo Romero](https://github.com/romeroofacu4-cyber/modulo-1.git)
 
-[Santiago Jara]
+[Santiago Jara](https://github.com/jarasantiago/modulo1.git)
