@@ -1,7 +1,7 @@
 # Entrega-Modulo1
 Mediación de Materiales TyHM 2026
 
-**losπ**
+**Grupo "losπ"**
 
 
 [Emiliano Ochoa](https://github.com/Emiliano-Ochoa)
