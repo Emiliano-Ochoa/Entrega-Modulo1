@@ -21,3 +21,6 @@ Mediación de Materiales TyHM 2026
 |Tiago Friscolanti|14735|+542634555729|tiagofriscolanti@gmail.com|<https://github.com/tiago-friscolanti/modulo_1.git>|
 |Gerardo Fernandez|14700|+542612197526|gerafernandez2003@gmail.com|<https://github.com/gerardofernandez12/modulo-1.git>|
 |Santiago Jara|14787|+542613379835|jarasantiagomartin@gmail.com|<https://github.com/jarasantiago/modulo1.git>|
+
+![Escudo del Grupo](https://github.com/user-attachments/assets/76eac013-28f2-4948-9a65-4612c10ebf20)
+
