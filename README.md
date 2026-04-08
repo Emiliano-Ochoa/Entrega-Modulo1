@@ -8,7 +8,7 @@ Mediación de Materiales TyHM 2026
 
 [Tiago Friscolanti](https://github.com/tiago-friscolanti)
 
-[Gerardo Fernandez](https://github.com/gerardofernandez12)
+[Gerardo Fernandez](https://github.com/gerardo-martin-fernandez)
 
 [Facundo Romero](https://github.com/romeroofacu4-cyber)
 
