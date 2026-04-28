@@ -16,6 +16,6 @@ Los archivos pueden ser descargados mediante los siguientes atajos
 
 Los archivos pueden ser descargados mediante los siguientes atajos
 
-[Descarga Ejercicio 1.4 en PDF]
+[Descarga Ejercicio 1.4 en PDF](https://github.com/Emiliano-Ochoa/Entrega-Modulo1/blob/main/M%C3%B3dulo%202/Ejercicio%201.4.pdf)
 
 [Descarga el archivo zip. con todo el proyecto]
