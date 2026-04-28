@@ -6,7 +6,7 @@ Este Repositorio esta destinado al módulo 2 de la materia 'Técnicas y herramie
 
 Los archivos pueden ser descargados mediante los siguientes atajos
 
-[Descarga Algoritmos y Ejercicios en PDF]
+[Descarga Algoritmos y Ejercicios en PDF](https://github.com/Emiliano-Ochoa/Entrega-Modulo1/blob/main/M%C3%B3dulo%202/Algoritmos%20y%20Ejercicios.pdf)
 
 [Descarga el archivo zip. con todo el proyecto]
 
