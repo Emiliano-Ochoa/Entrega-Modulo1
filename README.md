@@ -1,4 +1,4 @@
-# Presentación 
+# Presentación Grupo
 Mediación de Materiales TyHM 2026
 
 **Grupo "losπ"**
@@ -24,8 +24,7 @@ Mediación de Materiales TyHM 2026
 
 ![Escudo del Grupo](https://github.com/user-attachments/assets/76eac013-28f2-4948-9a65-4612c10ebf20)
 
-# Módulo 1
+# [Módulo 1](https://github.com/Emiliano-Ochoa/Entrega-Modulo1/tree/main/Informe%20M%C3%B3dulo%201)
 
-[Descarga Informe LNCS en PDF]
 
-[Descarga el archivo zip. con todo el proyecto en LaTeX]
+
