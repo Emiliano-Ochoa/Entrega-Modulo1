@@ -24,3 +24,8 @@ Mediación de Materiales TyHM 2026
 
 ![Escudo del Grupo](https://github.com/user-attachments/assets/76eac013-28f2-4948-9a65-4612c10ebf20)
 
+# Módulo 1
+
+[Descarga Informe LNCS en PDF]
+
+[Descarga el archivo zip. con todo el proyecto en LaTeX]
