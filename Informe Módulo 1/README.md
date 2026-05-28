@@ -1,6 +1,6 @@
 # Módulo 1
 
-Este Repositorio esta destinado al módulo 1 de la materia 'Técnicas y herramientas modernas I', para visualizar un pdf con los diferentes comandos usados en R.
+Este Repositorio esta destinado al módulo 1 de la materia 'Técnicas y herramientas modernas I', para visualizar un pdf con los diferentes comandos usados en R, en LaTeX
 
 
 # Uso del formato LNCS en LaTeX para cerrar el Módulo 1
