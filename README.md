@@ -26,3 +26,4 @@ Mediación de Materiales TyHM 2026
 # [Entrega Módulo 1](https://github.com/Emiliano-Ochoa/Entrega-Modulo1/blob/main/Informe%20M%C3%B3dulo%201/README.md)
 # [Entrega Módulo 2](https://github.com/Emiliano-Ochoa/Entrega-Modulo1/blob/main/M%C3%B3dulo%202/README.md)
 # [Entrega Módulo 3](https://github.com/Emiliano-Ochoa/Entrega-Modulo1/blob/main/M%C3%B3dulo%203/README.md)
+# [Entrega Módulo 4](https://github.com/Emiliano-Ochoa/Entrega-Modulo1/blob/main/M%C3%B3dulo%204/README.md)
