@@ -13,8 +13,8 @@ Mediación de Materiales TyHM 2026
 
 [Santiago Jara](https://github.com/jarasantiago)
 
-|Nombre|Legajo|WhatsApp|Mail|
-|:--------:|:--------:|:--------:|:--------:|:--------:|
+|Nombre|Legajo|WhatsApp|Mail|  
+|:--------:|:--------:|:--------:|:--------:|
 |Emiliano Ochoa|14737|+542615368719|emiliano8a05@gmail.com|
 |Facundo Romero|14810|+542612199521|romeroofacu4@gmail.com|
 |Tiago Friscolanti|14735|+542634555729|tiagofriscolanti@gmail.com|
